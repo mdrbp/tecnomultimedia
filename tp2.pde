@@ -14,12 +14,12 @@ void setup(){
   size(500,500);
   altura = height;
   imagen = 0;
-  borderlands = loadImage("C:/Users/Leni/Desktop/tp2/imagenes/borderlands2-logo.png");
-  tiny = loadImage("C:/Users/Leni/Desktop/tp2/imagenes/tiny.png");
-  heroes = loadImage("C:/Users/Leni/Desktop/tp2/imagenes/heroes.png");
-  handsome = loadImage("C:/Users/Leni/Desktop/tp2/imagenes/handsome.png");
-  roland = loadImage("C:/Users/Leni/Desktop/tp2/imagenes/roland.png");
-  mordecai = loadImage("C:/Users/Leni/Desktop/tp2/imagenes/mordecai.png");
+  borderlands = loadImage("borderlands2-logo.png");
+  tiny = loadImage("tiny.png");
+  heroes = loadImage("heroes.png");
+  handsome = loadImage("handsome.png");
+  roland = loadImage("roland.png");
+  mordecai = loadImage("mordecai.png");
   compacta = loadFont("CompactaBT-Roman-48.vlw");
   textFont(compacta);
  // medidas imágenes: 200,80,350,350  
