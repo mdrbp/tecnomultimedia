@@ -79,6 +79,6 @@ class Juego {
     return (contador <=0);
   }
   boolean perdio() {
-    return (convida==0);
+    return (convida<=0);
   }
 }
