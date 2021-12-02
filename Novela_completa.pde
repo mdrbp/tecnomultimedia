@@ -25,6 +25,9 @@ class Novela {
 
   //metodos 
   void actualizar() {
+    println(estadoNovela);
+    println(pantalla);
+    println(convida);
     if (estadoNovela.equals("inicio")) {
       background(255);    
       fill(0);
