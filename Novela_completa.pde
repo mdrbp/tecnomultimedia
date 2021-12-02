@@ -20,6 +20,7 @@ class Novela {
     eleccion8 = new Eleccion("'No pensé a dónde ir'", height-80);
     pantalla_completa = new Pantalla();
     juego = new Juego();  
+    estadoNovela= "inicio";
   }
 
   //metodos 
