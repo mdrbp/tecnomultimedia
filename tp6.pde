@@ -9,7 +9,6 @@ int contador;
 void setup() {
   size (600, 600);
   novela = new Novela(); 
-  estadoNovela = "inicio";
 } 
 void draw() {  
   novela.actualizar();  
